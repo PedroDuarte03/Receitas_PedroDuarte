@@ -1,30 +1,28 @@
-# Página Colaborativa de Receitas
-
-Este projeto tem como objetivo criar uma página colaborativa com receitas compartilhadas pelos integrantes do grupo.
-
-## Instruções
-- Clique em “Use this template”
-- Crie seu próprio repositório em grupo
-- Siga os exercícios em docs/roteiro_de_atividades.pdf
-- Preencha docs/relatorio.md ao final
-- Entregue o link do repositório no GoogleClassRoom
-- Não esqueça de adicionar o professor como colaborador do seu projeto alexsteil-istec
-
-
-## Integrantes
-- Nome 1
-- Nome 2
-- Nome 3
+# Receitas Colaborativas
 
 ## Descrição
-Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando boas práticas de versionamento com Git e GitHub.
+Este projeto foi desenvolvido no âmbito da unidade curricular de Desenvolvimento Ágil de Projetos.
 
-## Como Contribuir
-Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+O objetivo é praticar a utilização do Git e do GitHub através da criação colaborativa de um website de receitas.
 
-## Serão avaliados:
-- Participação de cada aluno (Insights > Contributors)
-- Organização de branches e commits
-- Uso de issues e pull requests
-- Conflitos resolvidos (se houver)
-- Preenchimento do relatório final
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+## Estrutura do Projeto
+- Página inicial
+- Receita de Bolo de Cenoura
+- Receita de Pão de Queijo
+
+## Como executar
+1. Clonar o repositório:
+   git clone <https://github.com/PedroDuarte03/Receitas_PedroDuarte>
+
+2. Abrir a pasta `src`.
+
+3. Executar o ficheiro `index.html` num navegador.
+
+## Autor(es)
+- Pedro Duarte
