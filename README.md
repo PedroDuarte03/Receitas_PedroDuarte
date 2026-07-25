@@ -1,7 +1,7 @@
 # Receitas Colaborativas
 
 ## Descrição
-Este projeto foi desenvolvido no âmbito da unidade curricular de Desenvolvimento Ágil de Software.
+Este projeto foi desenvolvido no âmbito da unidade curricular de Desenvolvimento Ágil de Projetos.
 
 O objetivo é praticar a utilização do Git e do GitHub através da criação colaborativa de um website de receitas.
 
@@ -18,7 +18,7 @@ O objetivo é praticar a utilização do Git e do GitHub através da criação c
 
 ## Como executar
 1. Clonar o repositório:
-   git clone <https://github.com/PedroDuarte03/Receitas_PedroDuarte.git>
+   git clone <https://github.com/PedroDuarte03/Receitas_PedroDuarte>
 
 2. Abrir a pasta `src`.
 
