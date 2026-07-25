@@ -1,7 +1,7 @@
 # Receitas Colaborativas
 
 ## Descrição
-Este projeto foi desenvolvido no âmbito da unidade curricular de Desenvolvimento Ágil de Projetos.
+Este projeto foi desenvolvido no âmbito da unidade curricular de Desenvolvimento Ágil de Software.
 
 O objetivo é praticar a utilização do Git e do GitHub através da criação colaborativa de um website de receitas.
 
